@@ -177,3 +177,5 @@ public class DemoApplication {
 }
 ```
 ## output:
+<img width="1436" height="829" alt="image" src="https://github.com/user-attachments/assets/357c0569-1171-47e1-bf77-640af44044ec" />
+
